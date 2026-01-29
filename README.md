@@ -1,19 +1,39 @@
-# Hi there, I'm Suraj Paikaray! 👋
+# 👋 Suraj Paikaray
 
-I'm a passionate **Quality Assurance (QA) Tester** with 1.5+ years of experience in ensuring software quality through **manual and automation testing**. I enjoy breaking applications to make them better and more reliable 🚀.  
-When I’m not testing, I like improving my problem-solving skills and exploring new testing tools.
+### **Quality Analyst | Manual & Automation Testing | API & Performance Testing**
 
----
+**QA Professional with 3+ years of experience** in testing **web and mobile applications** across enterprise and high-traffic consumer platforms. Strong expertise in **manual testing, test automation (Selenium + Java), API testing, and performance testing**, with a proven record of delivering **zero critical production defects**.
 
-### 🚀 **About Me**
-🔭 I’m currently working as a **QA Tester**, focusing on delivering high-quality software.  
-🌱 I’m currently learning **Test Automation, API Testing, and Advanced QA Practices**.  
-👯 I’m looking to collaborate on **Automation Frameworks & QA-related Open Source Projects**.  
-💬 Ask me about **Manual Testing, Test Case Design, Bug Tracking, SDLC & STLC**.  
-📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+Experienced in **SDLC & STLC**, Agile/Scrum environments, test strategy design, and defect lifecycle management. Adept at collaborating with developers, product managers, and stakeholders to ensure **scalable, secure, and reliable software**.
+
+📍 Surat, Gujarat, India
+📫 **[pratapsuraj2226@gmail.com](mailto:pratapsuraj2226@gmail.com)**
+🔗 [LinkedIn](https://linkedin.com/in/suraj-paikaray) | [GitHub](https://github.com/Suraj-Paikaray)
 
 ---
 
+**Manual Testing:**
+Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, System Testing, UAT, Ad Hoc Testing
+
+**Automation Testing:**
+Selenium WebDriver, Java, TestNG, JUnit, NUnit, Page Object Model (POM), Cross-Browser Testing, CI/CD Integration
+
+**API Testing:**
+Postman, REST Assured, RESTful APIs, API Automation, Request/Response Validation
+
+**Performance Testing:**
+JMeter, LoadRunner
+
+**Test Management & Documentation:**
+Test Plan, Test Strategy, Test Case Design, Test Scenarios, RTM, BRD/FRD/SRD Analysis
+
+**Tools & Platforms:**
+JIRA, Git, GitHub, BrowserStack, Chrome DevTools, Google Cloud Console
+
+**Methodologies:**
+Agile, Scrum, SDLC, STLC
+
+---
 ### 🛠️ **Tech Stack & Tools**
 
 <div align="left">
@@ -30,34 +50,9 @@ When I’m not testing, I like improving my problem-solving skills and exploring
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="left">
-  <a href="https://github.com/Suraj-Paikaray">
-    <img src="https://github-readme-stats.vercel.app/api?username=Suraj-Paikaray&show_icons=true&theme=tokyonight&hide_border=true" alt="Suraj's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Suraj-Paikaray">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Paikaray&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+`Quality Analyst` · `QA Engineer` · `Manual Tester` · `Automation Tester` ·
+`Selenium Java` · `API Testing` · `Postman` · `REST Assured` ·
+`Agile QA` · `SDLC STLC` · `JIRA` · `Regression Testing` ·
+`Performance Testing` · `CI/CD` · `POM Framework`
 
 ---
-
-### 🎯 **Key Skills**
-- Manual Testing (Functional, Regression, Smoke, Sanity)
-- Test Case & Test Scenario Design
-- Bug Tracking & Reporting
-- Automation Testing (Selenium + Java – Beginner/Intermediate)
-- API Testing (Postman)
-- SDLC & STLC
-- Agile / Scrum Methodology
-
----
-
-### 🤝 **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-paikaray)
-
----
-
-⚡ *“Quality is never an accident; it is always the result of intelligent effort.”*
