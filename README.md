@@ -10,7 +10,7 @@ Experienced in **SDLC & STLC**, Agile/Scrum environments, test strategy design, 
 📫 **[pratapsuraj2226@gmail.com](mailto:pratapsuraj2226@gmail.com)**
 🔗 [LinkedIn](https://linkedin.com/in/suraj-paikaray) | [GitHub](https://github.com/Suraj-Paikaray)
 
----
+----
 
 **Manual Testing:**
 Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, System Testing, UAT, Ad Hoc Testing
